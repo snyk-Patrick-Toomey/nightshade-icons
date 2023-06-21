@@ -23,7 +23,7 @@
   "homepage": "https://github.com/caspersleep/nightshade-icons#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.3.13",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-plumber": "^1.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-svg-sprite": "^1.2.19"
